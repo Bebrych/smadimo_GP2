@@ -1,0 +1,4 @@
+logging:
+  turn_on: true
+  level: DEBUG
+  file: parsing_pavel.log
