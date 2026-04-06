@@ -1,0 +1,221 @@
+id,name,abbreviation
+376,Epoch Super Cassette Vision,
+510,e-Reader / Card-e Reader,
+12,Xbox 360,X360
+32,Sega Saturn,Saturn
+62,Atari Jaguar,Jaguar
+148,AY-3-8607,
+150,Turbografx-16/PC Engine CD,
+156,Thomson MO5,
+306,Satellaview,
+339,Sega Pico,
+389,AirConsole,
+13,DOS,DOS
+60,Atari 7800,Atari7800
+41,Wii U,WiiU
+309,Evercade,Evercade
+506,Amstrad GX4000,GX4000
+112,Microcomputer,microcomputer
+410,Atari Jaguar CD,
+30,Sega 32X,Sega32
+53,MSX2,MSX2
+61,Atari Lynx,Lynx
+77,Sharp X1,x1
+120,Neo Geo Pocket Color,
+127,Fairchild Channel F,
+132,Amazon Fire TV,FireTV
+413,Leapster Explorer/LeadPad Explorer,
+140,AY-3-8500,
+143,AY-3-8760,
+153,Dragon 32/64,
+167,PlayStation 5,PS5
+154,Amstrad PCW,APCW
+70,Vectrex,vectrex
+87,Virtual Boy,virtualboy
+145,AY-3-8603,
+386,Meta Quest 2,Meta Quest 2
+390,PlayStation VR2,PSVR2
+477,Panasonic Jungle,
+65,Atari 8-bit,Atari8bit
+158,Commodore CDTV,
+165,PlayStation VR,PSVR
+504,Uzebox,
+440,Visual Memory Unit / Visual Memory System,
+473,Arcadia 2001,
+474,Gizmondo,
+48,PlayStation 4,PS4
+51,Family Computer Disk System,fds
+89,Microvision,microvision
+94,Commodore Plus/4,C+4
+123,WonderSwan Color,
+128,PC Engine SuperGrafx,supergrafx
+129,Texas Instruments TI-99,ti-99
+482,Sega CD 32X,
+3,Linux,Linux
+8,PlayStation 2,PS2
+88,Odyssey,odyssey
+97,PDP-8,pdp-8
+23,Dreamcast,DC
+136,Neo Geo CD,
+134,Acorn Electron,Acorn Electron
+35,Sega Game Gear,Game Gear
+39,iOS,iOS
+44,Tapwave Zodiac,zod
+6,PC (Microsoft Windows),PC
+78,Sega CD,Sega CD
+144,AY-3-8710,
+146,AY-3-8605,
+163,SteamVR,Steam VR
+373,Sinclair ZX81,
+147,AY-3-8606,
+149,PC-9800 Series,
+237,Sol-20,
+505,Elektor TV Games Computer,
+24,Game Boy Advance,GBA
+72,Ouya,Ouya
+85,Donner Model 30,donner30
+115,Apple IIGS,
+119,Neo Geo Pocket,
+125,PC-8800 Series,
+133,Odyssey 2 / Videopac G7000,
+135,Hyper Neo Geo 64,
+142,PC-50X Family,
+9,PlayStation 3,PS3
+98,DEC GT40,gt40
+11,Xbox,XBOX
+111,Imlac PDS-1,imlac-pds1
+162,Oculus VR,Oculus VR
+20,Nintendo DS,NDS
+18,Nintendo Entertainment System,NES
+46,PlayStation Vita,Vita
+308,Playdia,
+116,Acorn Archimedes,Acorn Archimedes
+117,Philips CD-i,Philips CDI
+22,Game Boy Color,GBC
+15,Commodore C64/128/MAX,C64
+101,Ferranti Nimrod Computer,nimrod
+67,Intellivision,intellivision
+73,BlackBerry OS,blackberry
+86,TurboGrafx-16/PC Engine,turbografx16
+66,Atari 5200,Atari5200
+108,PDP-11,pdp11
+109,CDC Cyber 70,cdccyber70
+113,OnLive Game System,OnLive
+118,FM Towns,
+121,Sharp X68000,
+124,SwanCrystal,
+131,Super NES CD-ROM System,
+138,VC 4000,
+139,1292 Advanced Programmable Video System,
+152,FM-7,
+155,Tatung Einstein,
+157,NEC PC-6000 Series,
+307,Game & Watch,G&W
+114,Amiga CD32,Amiga CD32
+161,Windows Mixed Reality,
+374,Sharp MZ-2200,
+375,Epoch Cassette Vision,
+377,Plug & Play,
+379,Game.com,
+103,PDP-7,pdp-7
+382,Intellivision Amico,
+384,Oculus Quest,
+385,Oculus Rift,
+387,Oculus Go,
+479,Terebikko / See 'n Say Video Phone,
+507,Advanced Pico Beena,
+508,Nintendo Switch 2,Switch 2
+21,Nintendo GameCube,NGC
+33,Game Boy,Game Boy
+137,New Nintendo 3DS,New 3DS
+42,N-Gage,NGage
+57,WonderSwan,WonderSwan
+38,PlayStation Portable,PSP
+69,BBC Microcomputer System,bbcmicro
+71,Commodore VIC-20,vic-20
+74,Windows Phone,Win Phone
+79,Neo Geo MVS,neogeomvs
+80,Neo Geo AES,neogeoaes
+84,SG-1000,sg1000
+91,Bally Astrocade,astrocade
+93,Commodore 16,C16
+96,PDP-10,pdp10
+122,Nuon,
+141,AY-3-8610,
+170,Google Stadia,Stadia
+388,Gear VR,Gear VR
+372,OOParts,
+203,DUPLICATE Stadia,
+164,Daydream,
+380,Casio Loopy,
+100,Analogue electronics,analogueelectronics
+415,Watara/QuickShot Supervision,
+478,Panasonic M2,
+486,Digiblast,
+381,Playdate,Playdate
+509,Polymega,
+26,ZX Spectrum,ZXS
+378,Gamate,Gamate
+27,MSX,MSX
+37,Nintendo 3DS,3DS
+169,Xbox Series X|S,Series X|S
+64,Sega Master System/Mark III,SMS
+95,PDP-1,pdp1
+99,Family Computer,famicom
+102,EDSAC,edsac
+104,HP 2100,hp2100
+105,HP 3000,hp3000
+106,SDS Sigma 7,sdssigma7
+107,Call-A-Computer time-shared mainframe computer system,call-a-computer
+110,PLATO,plato
+151,TRS-80 Color Computer,
+166,Pokémon mini,
+50,3DO Interactive Multiplayer,3DO
+238,DVD Player,
+239,Blu-ray Player,
+240,Zeebo,
+274,PC-FX,
+411,Handheld Electronic LCD,Handheld
+236,Exidy Sorcerer,
+405,Windows Mobile,
+406,Sinclair QL,
+407,HyperScan,
+408,Mega Duck/Cougar Boy,
+409,Legacy Computer,
+412,Leapster,
+414,LeapTV,
+417,Palm OS,
+439,V.Smile,
+441,PocketStation,
+471,Meta Quest 3,Meta Quest 3
+472,visionOS,
+475,R-Zone,
+476,Apple Pippin,
+480,Super A'Can,
+481,Tomy Tutor / Pyuta / Grandstand Tutor,
+34,Android,Android
+16,Amiga,Amiga
+68,ColecoVision,colecovision
+25,Amstrad CPC,ACPC
+52,Arcade,Arcade
+29,Sega Mega Drive/Genesis,Genesis/MegaDrive
+47,Virtual Console,VC
+7,PlayStation,PS1
+416,64DD,64DD
+438,Arduboy,Arduboy
+59,Atari 2600,Atari2600
+55,Legacy Mobile Device,Mobile
+159,Nintendo DSi,
+90,Commodore PET,cpet
+126,TRS-80,
+487,LaserActive,
+4,Nintendo 64,N64
+5,Wii,Wii
+19,Super Nintendo Entertainment System,SNES
+49,Xbox One,XONE
+58,Super Famicom,SFAM
+63,Atari ST/STE,Atari-ST
+75,Apple II,Apple][
+14,Mac,Mac
+82,Web browser,browser
+130,Nintendo Switch,Switch
