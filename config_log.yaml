@@ -1,4 +1,4 @@
 logging:
   turn_on: true
-  level: DEBUG
+  level: INFO
   file: parsing.log
